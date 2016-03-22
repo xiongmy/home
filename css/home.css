@@ -1,3 +1,11 @@
+/*主体部分开始*/
+.contain{
+    width: 900px;
+    height: 600px;
+    margin: 0 auto;
+    background: #FFE;
+    border-radius: 5px;
+}
 #code {
     float: left;
     width: 450px;
